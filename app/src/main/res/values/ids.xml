@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="add"/>
+    <id name="subtract"/>
+    <id name="multiply"/>
+    <id name="divide"/>
+    <id name="firstText"/>
+    <id name="secText"/>
+</resources>
